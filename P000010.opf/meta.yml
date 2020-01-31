@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅༅། །ཞལ་གདམས་དང་གསུང་མགུར་སྣ་ཚོགས་ཀྱི་སྐོར་ཀུན་ཕན་བདུད་རྩིའི་སྤྲིན་ཆེན་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-05
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: Quintessential Advice and Spiritual Songs
+    bo: ཞལ་གདམས་གསུང་མགུར་སྐོར།༼ཅ༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 5
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༥
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-05
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-05.epub
+  description:
+    en: ''
+    bo: ''
