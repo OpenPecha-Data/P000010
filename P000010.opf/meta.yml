@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000010
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅། །ཞལ་གདམས་དང་གསུང་མགུར་སྣ་ཚོགས་ཀྱི་སྐོར་ཀུན་ཕན་བདུད་རྩིའི་སྤྲིན་ཆེན་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
-  sku: SHE-SG-05
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: SHE-SG-05
 web_metadata:
   title:
     en: Quintessential Advice and Spiritual Songs
